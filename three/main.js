@@ -4,7 +4,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 THREE.ColorManagement.enabled = true;
 // renkler
 var red = new THREE.Color(92, 57, 63); // Kırmızı renk (RGB formatında)
-var color = new THREE.Color(255, 255, 255); // Kırmızı renk (RGB formatında)
+var color = new THREE.Color(255, 255, 255); // Beyaz renk (RGB formatında)
 
  // Sahne oluşturma
  const scene = new THREE.Scene();
